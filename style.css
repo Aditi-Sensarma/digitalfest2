@@ -1,0 +1,110 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f0ff;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #b19cd9; 
+  color: white;
+  text-align: center;
+  padding: 40px 10px;
+}
+header h1 {
+  margin: 0;
+  font-size: 3em;
+}
+header p {
+  font-size: 1.5em;
+}
+nav {
+  background-color: #d8bfd8; 
+  padding: 10px;
+  text-align: center;
+}
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+section {
+  padding: 50px 20px;
+  text-align: center;
+}
+section h2 {
+  color: #9370db; 
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+section p {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+footer {
+  background-color: #d8bfd8;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+.box {
+  width: 600px;
+  height: 125px;
+  border: 1px solid #d8bfd8;
+  font-weight: bold;
+  overflow: hidden; 
+  border-radius: 20px;
+ align-content: center;
+border-width: 2.5px;    
+ 
+ position:fixed;
+top: 49.2%;
+left: 29.9%
+
+}
+
+.box p {
+  font-size: 12px;
+  line-height: 12;
+  padding: 10px;
+  
+}
+marquee{
+  font-size: 150%;
+  
+}
+
+
+
+button1 {
+padding: 10px 20px;
+background-color: #d89aea;
+color: white;
+border: none;
+cursor: pointer;
+
+}
+.input-container {
+text-align: center;
+}
+
+input[type="text"] {
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 5px;
+width: 300px;
+}
+
+button {
+padding: 10px 20px;
+background-color: #945eff;
+color: white;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
